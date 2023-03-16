@@ -1,0 +1,78 @@
+{'text': "okay let's see how to", 'start': 0.719, 'duration': 4.881}
+{'text': 'get the subtitles from', 'start': 3.04, 'duration': 3.52}
+{'text': 'um', 'start': 5.6, 'duration': 2.48}
+{'text': 'youtube', 'start': 6.56, 'duration': 2.32}
+{'text': 'and', 'start': 8.08, 'duration': 2.88}
+{'text': 'like you see in this video here we got', 'start': 8.88, 'duration': 5.12}
+{'text': "the script let's try if it works", 'start': 10.96, 'duration': 5.6}
+{'text': 'okay first of all we gotta', 'start': 14.0, 'duration': 5.199}
+{'text': 'install', 'start': 16.56, 'duration': 2.639}
+{'text': 'using', 'start': 20.4, 'duration': 3.2}
+{'text': 'it', 'start': 22.08, 'duration': 3.119}
+{'text': 'install', 'start': 23.6, 'duration': 4.16}
+{'text': 'youtube', 'start': 25.199, 'duration': 2.561}
+{'text': 'transcript', 'start': 29.279, 'duration': 3.0}
+{'text': 'api', 'start': 34.16, 'duration': 2.88}
+{'text': 'okay', 'start': 43.36, 'duration': 2.48}
+{'text': 'so', 'start': 46.079, 'duration': 3.0}
+{'text': '[Music]', 'start': 55.12, 'duration': 14.06}
+{'text': '[Music]', 'start': 73.49, 'duration': 16.99}
+{'text': '[Music]', 'start': 97.23, 'duration': 8.85}
+{'text': "okay so we'll import", 'start': 109.52, 'duration': 7.12}
+{'text': '[Music]', 'start': 111.58, 'duration': 6.87}
+{'text': 'import this class', 'start': 116.64, 'duration': 3.439}
+{'text': '[Music]', 'start': 118.45, 'duration': 2.99}
+{'text': "and then we're gonna", 'start': 120.079, 'duration': 2.72}
+{'text': '[Music]', 'start': 121.44, 'duration': 5.679}
+{'text': 'use this method to get the', 'start': 122.799, 'duration': 6.96}
+{'text': "the subtitles so we're gonna", 'start': 127.119, 'duration': 5.001}
+{'text': 'srt equal', 'start': 129.759, 'duration': 4.721}
+{'text': '[Music]', 'start': 132.12, 'duration': 3.15}
+{'text': 'dot', 'start': 134.48, 'duration': 2.24}
+{'text': '[Music]', 'start': 135.27, 'duration': 4.82}
+{'text': 'get transcripts', 'start': 136.72, 'duration': 7.36}
+{'text': '[Music]', 'start': 140.09, 'duration': 7.03}
+{'text': 'and then we have to copy the last of', 'start': 144.08, 'duration': 4.56}
+{'text': 'this', 'start': 147.12, 'duration': 5.14}
+{'text': "let's copy from this one for example", 'start': 148.64, 'duration': 8.239}
+{'text': '[Music]', 'start': 152.26, 'duration': 6.95}
+{'text': "let's must get this", 'start': 156.879, 'duration': 4.321}
+{'text': '[Music]', 'start': 159.21, 'duration': 4.55}
+{'text': 'and then', 'start': 161.2, 'duration': 2.56}
+{'text': 'we must write', 'start': 164.48, 'duration': 6.32}
+{'text': 'into us create a file to write the data', 'start': 166.48, 'duration': 4.74}
+{'text': 'in', 'start': 170.8, 'duration': 6.56}
+{'text': '[Music]', 'start': 171.22, 'duration': 9.46}
+{'text': "let's put", 'start': 177.36, 'duration': 3.32}
+{'text': '[Music]', 'start': 184.69, 'duration': 7.87}
+{'text': 'in', 'start': 193.68, 'duration': 4.279}
+{'text': 'right mode', 'start': 194.56, 'duration': 3.399}
+{'text': '[Music]', 'start': 198.43, 'duration': 29.45}
+{'text': '[Music]', 'start': 232.18, 'duration': 36.04}
+{'text': 'this is to avoid writing too many times', 'start': 270.16, 'duration': 4.92}
+{'text': '[Music]', 'start': 276.61, 'duration': 28.31}
+{'text': '[Music]', 'start': 315.15, 'duration': 4.809}
+{'text': '[Music]', 'start': 340.38, 'duration': 3.129}
+{'text': 'so', 'start': 345.12, 'duration': 3.0}
+{'text': '[Music]', 'start': 360.4, 'duration': 3.46}
+{'text': "let's just wait that it prints here all", 'start': 385.84, 'duration': 4.639}
+{'text': 'the subtitles', 'start': 388.72, 'duration': 3.84}
+{'text': 'it takes long', 'start': 390.479, 'duration': 6.321}
+{'text': 'okay it has text', 'start': 392.56, 'duration': 4.24}
+{'text': 'starting duration so', 'start': 398.24, 'duration': 4.6}
+{'text': '[Music]', 'start': 410.08, 'duration': 5.09}
+{'text': '[Music]', 'start': 421.0, 'duration': 6.36}
+{'text': '[Music]', 'start': 432.26, 'duration': 7.079}
+{'text': '[Music]', 'start': 460.56, 'duration': 3.12}
+{'text': '[Music]', 'start': 487.42, 'duration': 3.979}
+{'text': 'so this is how to get', 'start': 502.4, 'duration': 7.199}
+{'text': "attacks it's very interesting", 'start': 505.759, 'duration': 8.561}
+{'text': 'so you can just take a look at all', 'start': 509.599, 'duration': 4.721}
+{'text': 'all', 'start': 516.719, 'duration': 5.12}
+{'text': 'things that they are saying here', 'start': 517.599, 'duration': 4.24}
+{'text': 'so you can immediately see', 'start': 537.6, 'duration': 8.0}
+{'text': "what he's going to talk about and if", 'start': 541.04, 'duration': 8.16}
+{'text': 'it is useful for you so', 'start': 545.6, 'duration': 8.28}
+{'text': 'here in this video talk about generators', 'start': 549.2, 'duration': 4.68}
+{'text': "okay that's all", 'start': 567.279, 'duration': 6.521}
+{'text': 'thank you and see you next time', 'start': 569.519, 'duration': 4.281}
