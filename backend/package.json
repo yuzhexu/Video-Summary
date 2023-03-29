@@ -16,7 +16,7 @@
     "morgan": "~1.9.1",
     "openai": "^3.2.1",
     "pug": "^3.0.2",
-    "youtube-transcript": "^1.0.4"
+    "python-shell": "^5.0.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.21"

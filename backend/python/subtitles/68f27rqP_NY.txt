@@ -1,0 +1,310 @@
+{'text': "yeah yeah that's fine I can pick up food", 'start': 10.82, 'duration': 4.8}
+{'text': 'on the way back', 'start': 13.08, 'duration': 2.54}
+{'text': 'Shane', 'start': 25.619, 'duration': 3.9}
+{'text': 'what are you doing here', 'start': 26.82, 'duration': 6.0}
+{'text': 'no Bridget would have been upset if I', 'start': 29.519, 'duration': 5.161}
+{'text': "had come to your house so man I'm not", 'start': 32.82, 'duration': 3.84}
+{'text': "complaining I just figured you'd be in", 'start': 34.68, 'duration': 3.12}
+{'text': 'space or', 'start': 36.66, 'duration': 3.12}
+{'text': 'building a hover car or something', 'start': 37.8, 'duration': 3.779}
+{'text': "golly it's been like four years three", 'start': 39.78, 'duration': 3.72}
+{'text': 'months 21 days', 'start': 41.579, 'duration': 4.98}
+{'text': "hey Matt the usual yes ma'am this right", 'start': 43.5, 'duration': 5.82}
+{'text': 'here is my brother Shane Shane this is', 'start': 46.559, 'duration': 4.02}
+{'text': 'Robin your favorite waitress at the', 'start': 49.32, 'duration': 2.579}
+{'text': "downtown Diner I'll take an apple juice", 'start': 50.579, 'duration': 4.261}
+{'text': "lots of ice don't worry about the spill", 'start': 51.899, 'duration': 5.881}
+{'text': 'Black Coffee Apple Juice plenty of ice', 'start': 54.84, 'duration': 5.82}
+{'text': 'still sticking to apple juice huh you', 'start': 57.78, 'duration': 3.84}
+{'text': "know it's funny every time I pack", 'start': 60.66, 'duration': 2.399}
+{'text': "Katie's lunch he always asks for a juice", 'start': 61.62, 'duration': 3.6}
+{'text': 'box I guess she takes after her uncle', 'start': 63.059, 'duration': 3.721}
+{'text': 'me', 'start': 65.22, 'duration': 3.84}
+{'text': 'you have somehow gotten more Awkward go', 'start': 66.78, 'duration': 4.56}
+{'text': 'to ESPN live stream Liverpool versus', 'start': 69.06, 'duration': 4.94}
+{'text': 'Manchester United', 'start': 71.34, 'duration': 2.66}
+{'text': 'let me get there first', 'start': 74.6, 'duration': 6.04}
+{'text': 'now what the burner for me no scores in', 'start': 78.36, 'duration': 4.579}
+{'text': 'the corner', 'start': 80.64, 'duration': 2.299}
+{'text': '[Applause]', 'start': 83.54, 'duration': 3.129}
+{'text': 'wow I cannot believe the Mustang High', 'start': 87.96, 'duration': 5.46}
+{'text': 'mathlete Captain just told me to watch', 'start': 91.979, 'duration': 3.241}
+{'text': 'the sport Beth got me a full ride to MIT', 'start': 93.42, 'duration': 3.6}
+{'text': 'what did playing with a ball get you', 'start': 95.22, 'duration': 7.2}
+{'text': 'laid I played sure one black coffee and', 'start': 97.02, 'duration': 7.82}
+{'text': "I'm sorry", 'start': 102.42, 'duration': 5.58}
+{'text': "gosh I'm due for an upgrade anyway", 'start': 104.84, 'duration': 6.84}
+{'text': 'um I will get you another apple juice', 'start': 108.0, 'duration': 3.68}
+{'text': "how'd you know firmino was going to", 'start': 111.72, 'duration': 4.2}
+{'text': "score that goal I'll show you let's go", 'start': 113.22, 'duration': 5.16}
+{'text': "let's wait till we get our breakfast", 'start': 115.92, 'duration': 4.559}
+{'text': "first day I'm a much better listener", 'start': 118.38, 'duration': 4.8}
+{'text': 'when I have my baby', 'start': 120.479, 'duration': 4.801}
+{'text': "that's a timer we need to leave right", 'start': 123.18, 'duration': 3.899}
+{'text': 'now', 'start': 125.28, 'duration': 4.74}
+{'text': 'pay the waitress left pocket', 'start': 127.079, 'duration': 6.561}
+{'text': 'okay this one call in sick', 'start': 130.02, 'duration': 3.62}
+{'text': 'this afternoon a fire breaks out in the', 'start': 135.599, 'duration': 3.841}
+{'text': 'forest by Pines Road where dad and I', 'start': 137.52, 'duration': 3.06}
+{'text': 'used to force you to come camping with', 'start': 139.44, 'duration': 3.06}
+{'text': 'exactly 18 people die you have to get', 'start': 140.58, 'duration': 3.9}
+{'text': 'there and stop it before it starts', 'start': 142.5, 'duration': 3.9}
+{'text': "well I'll put in a call get some trucks", 'start': 144.48, 'duration': 3.24}
+{'text': 'out there no when we did that they turn', 'start': 146.4, 'duration': 2.4}
+{'text': 'up and they leave because the fire', 'start': 147.72, 'duration': 3.8}
+{'text': "hasn't happened yet", 'start': 148.8, 'duration': 2.72}
+{'text': '[Applause]', 'start': 152.35, 'duration': 3.189}
+{'text': "so you're like a time traveling Smokey", 'start': 155.58, 'duration': 4.2}
+{'text': "the Bear it's actually a Time loop I", 'start': 158.04, 'duration': 3.059}
+{'text': 'discovered that if I manipulate the', 'start': 159.78, 'duration': 3.66}
+{'text': 'cosmic string phases by three times what', 'start': 161.099, 'duration': 4.561}
+{'text': "I can repeat time I don't have the", 'start': 163.44, 'duration': 3.36}
+{'text': 'energy yet to go any further back to', 'start': 165.66, 'duration': 2.64}
+{'text': 'pass today and I have to reset the loop', 'start': 166.8, 'duration': 2.939}
+{'text': "by sunset or I'm stuck in the present", 'start': 168.3, 'duration': 2.519}
+{'text': 'but', 'start': 169.739, 'duration': 4.681}
+{'text': "so it's kind of like Groundhog Day", 'start': 170.819, 'duration': 5.761}
+{'text': 'yeah kinda', 'start': 174.42, 'duration': 4.44}
+{'text': "are you coming your battery's dead I run", 'start': 176.58, 'duration': 4.379}
+{'text': 'an SUV first to use my battery is not', 'start': 178.86, 'duration': 4.34}
+{'text': 'dead', 'start': 180.959, 'duration': 2.241}
+{'text': "all right well I'm still driving", 'start': 187.739, 'duration': 3.381}
+{'text': 'okay take Jefferson out towards', 'start': 193.56, 'duration': 4.14}
+{'text': "Margarita 49 is way faster it's gonna be", 'start': 194.94, 'duration': 3.96}
+{'text': 'an accident', 'start': 197.7, 'duration': 2.759}
+{'text': 'loose Tire', 'start': 198.9, 'duration': 3.72}
+{'text': 'take the next left skip Kings water main', 'start': 200.459, 'duration': 3.841}
+{'text': 'broke foot of the street', 'start': 202.62, 'duration': 4.1}
+{'text': 'okay', 'start': 204.3, 'duration': 2.42}
+{'text': 'excuse me sir you uh you want your', 'start': 211.56, 'duration': 5.36}
+{'text': "windows why all right no man we're good", 'start': 213.06, 'duration': 3.86}
+{'text': "trying to get us killed I'll explain", 'start': 217.379, 'duration': 4.94}
+{'text': 'when we fix the flat what', 'start': 219.0, 'duration': 3.319}
+{'text': 'is going on', 'start': 223.14, 'duration': 3.0}
+{'text': "two five miles there'll be uh an", 'start': 224.34, 'duration': 3.42}
+{'text': 'underpass by the railroad track park', 'start': 226.14, 'duration': 4.28}
+{'text': 'next to the track', 'start': 227.76, 'duration': 2.66}
+{'text': 'Shane man you are freaking me out dude', 'start': 232.739, 'duration': 4.381}
+{'text': 'how did you know the tire was gonna blow', 'start': 234.84, 'duration': 4.56}
+{'text': 'the the the battery was dead for me no', 'start': 237.12, 'duration': 4.259}
+{'text': 'scores that goal what is what is going', 'start': 239.4, 'duration': 5.28}
+{'text': 'on so it happened before', 'start': 241.379, 'duration': 5.241}
+{'text': "here's a tire right", 'start': 244.68, 'duration': 5.3}
+{'text': 'time Loop', 'start': 246.62, 'duration': 3.36}
+{'text': 'okay', 'start': 250.319, 'duration': 5.291}
+{'text': '[Music]', 'start': 252.53, 'duration': 3.08}
+{'text': 'why does it seem like the entire world', 'start': 257.88, 'duration': 3.0}
+{'text': 'is against us since we left that Diner', 'start': 259.44, 'duration': 2.46}
+{'text': 'because it is', 'start': 260.88, 'duration': 3.66}
+{'text': "Tom is a scientist we're just rats stuck", 'start': 261.9, 'duration': 3.84}
+{'text': "in her maze she doesn't want us to get", 'start': 264.54, 'duration': 2.46}
+{'text': 'to the exit so she keeps adding more', 'start': 265.74, 'duration': 3.6}
+{'text': "walls more traps it's very Progressive", 'start': 267.0, 'duration': 4.86}
+{'text': 'pronoun use thank you look 100 things', 'start': 269.34, 'duration': 3.78}
+{'text': "will go wrong to make sure we don't get", 'start': 271.86, 'duration': 2.82}
+{'text': 'to this fire I have relived this day', 'start': 273.12, 'duration': 4.38}
+{'text': 'again and again and again and I still', 'start': 274.68, 'duration': 3.84}
+{'text': "haven't been able to get to the fire", 'start': 277.5, 'duration': 1.979}
+{'text': 'with you', 'start': 278.52, 'duration': 3.239}
+{'text': "so we've had this conversation before oh", 'start': 279.479, 'duration': 3.901}
+{'text': 'yeah', 'start': 281.759, 'duration': 2.94}
+{'text': 'all right then what am I going to say', 'start': 283.38, 'duration': 2.4}
+{'text': 'next', 'start': 284.699, 'duration': 2.461}
+{'text': "trick question I'm not going to say", 'start': 285.78, 'duration': 3.56}
+{'text': 'anything', 'start': 287.16, 'duration': 2.18}
+{'text': 'thanks for the help welcome', 'start': 297.0, 'duration': 3.44}
+{'text': 'hey remember that time you helped me run', 'start': 300.9, 'duration': 4.32}
+{'text': 'for class president tried to hack the', 'start': 302.82, 'duration': 4.56}
+{'text': 'school computer system and rigged the', 'start': 305.22, 'duration': 4.5}
+{'text': 'election for me tried you were elected', 'start': 307.38, 'duration': 4.74}
+{'text': 'eighth grade president as I recall', 'start': 309.72, 'duration': 6.86}
+{'text': 'I was running for sixth grade president', 'start': 312.12, 'duration': 4.46}
+{'text': "he couldn't believe that you had", 'start': 323.52, 'duration': 4.019}
+{'text': 'memorized 400 lines of code and forgot', 'start': 325.5, 'duration': 4.94}
+{'text': "your own brother's age", 'start': 327.539, 'duration': 2.901}
+{'text': 'we got to go finish that up', 'start': 331.38, 'duration': 3.14}
+{'text': "I'm 28.", 'start': 335.1, 'duration': 3.02}
+{'text': "I want to put on some music no let's", 'start': 359.039, 'duration': 5.181}
+{'text': 'keep the radio off', 'start': 361.56, 'duration': 2.66}
+{'text': 'who needs music when you have random', 'start': 365.28, 'duration': 4.259}
+{'text': "beeping I've calibrated to go off at Key", 'start': 367.44, 'duration': 3.479}
+{'text': 'moments to keep us on schedule if we', 'start': 369.539, 'duration': 3.421}
+{'text': "don't meet the deadlines", 'start': 370.919, 'duration': 5.0}
+{'text': 'bad things happen', 'start': 372.96, 'duration': 2.959}
+{'text': 'what about the clicking is that part of', 'start': 376.68, 'duration': 4.34}
+{'text': 'the', 'start': 378.96, 'duration': 2.06}
+{'text': 'what have you been up to last four years', 'start': 382.62, 'duration': 3.359}
+{'text': "buddy when you're with me we never made", 'start': 384.06, 'duration': 4.62}
+{'text': 'it past the roadblock before', 'start': 385.979, 'duration': 5.761}
+{'text': 'Oh Me Oh well you beat the police in the', 'start': 388.68, 'duration': 4.739}
+{'text': 'annual softball league', 'start': 391.74, 'duration': 5.64}
+{'text': 'uh Katie had a bouncy castle and that', 'start': 393.419, 'duration': 6.921}
+{'text': 'was a whole lot of fun', 'start': 397.38, 'duration': 2.96}
+{'text': "dude honestly there's I guess big news", 'start': 401.039, 'duration': 5.641}
+{'text': "origin we're here", 'start': 404.1, 'duration': 6.62}
+{'text': 'pull over here pull over stop here', 'start': 406.68, 'duration': 4.04}
+{'text': 'you want me to gun it see if we can', 'start': 415.02, 'duration': 2.94}
+{'text': 'break through this barricade now when we', 'start': 416.52, 'duration': 2.64}
+{'text': "did that the car flips and you're", 'start': 417.96, 'duration': 3.679}
+{'text': 'decapitated', 'start': 419.16, 'duration': 2.479}
+{'text': 'seriously', 'start': 423.36, 'duration': 4.339}
+{'text': 'yeah', 'start': 425.4, 'duration': 2.299}
+{'text': 'I need to turn back', 'start': 430.28, 'duration': 4.479}
+{'text': 'sinkhole up here', 'start': 432.599, 'duration': 4.32}
+{'text': "took out the whole damn road okay I'm", 'start': 434.759, 'duration': 4.701}
+{'text': 'gonna talk to him', 'start': 436.919, 'duration': 2.541}
+{'text': 'what do you think we should do', 'start': 439.8, 'duration': 3.2}
+{'text': "I'm gonna try something new", 'start': 445.199, 'duration': 2.9}
+{'text': '[Music]', 'start': 449.02, 'duration': 6.85}
+{'text': 'hear what I said the road closed', 'start': 457.86, 'duration': 4.339}
+{'text': 'I saw the poster for your missing dog', 'start': 469.5, 'duration': 3.12}
+{'text': 'say what', 'start': 470.94, 'duration': 3.36}
+{'text': 'I actually found him', 'start': 472.62, 'duration': 4.979}
+{'text': "Jasper my dog is he okay yeah he's tied", 'start': 474.3, 'duration': 5.04}
+{'text': 'up in front of the downtown Diner I set', 'start': 477.599, 'duration': 2.88}
+{'text': 'up food and water which should prevent', 'start': 479.34, 'duration': 3.359}
+{'text': 'discomfort until you retrieve him', 'start': 480.479, 'duration': 5.34}
+{'text': 'okay but how do you even', 'start': 482.699, 'duration': 4.381}
+{'text': "know what it doesn't even matter man", 'start': 485.819, 'duration': 4.341}
+{'text': 'thank you thank you so much', 'start': 487.08, 'duration': 3.08}
+{'text': 'hey I need you to cover for me at Pines', 'start': 490.44, 'duration': 3.659}
+{'text': 'Road hey you know how Jasper went', 'start': 492.24, 'duration': 4.44}
+{'text': 'missing today yes yes I found them', 'start': 494.099, 'duration': 4.32}
+{'text': 'better take a lot of time to find that', 'start': 496.68, 'duration': 3.6}
+{'text': 'dog not really', 'start': 498.419, 'duration': 3.18}
+{'text': 'I took him from his backyard this', 'start': 500.28, 'duration': 3.44}
+{'text': 'morning', 'start': 501.599, 'duration': 2.121}
+{'text': '[Music]', 'start': 505.2, 'duration': 3.41}
+{'text': "okay we're on foot from here", 'start': 512.219, 'duration': 3.601}
+{'text': "he's back", 'start': 514.38, 'duration': 2.639}
+{'text': 'all right', 'start': 515.82, 'duration': 4.159}
+{'text': 'you ready to save the world', 'start': 517.019, 'duration': 2.96}
+{'text': 'you want to time travel back try that', 'start': 520.979, 'duration': 2.641}
+{'text': 'again', 'start': 522.419, 'duration': 3.181}
+{'text': 'no', 'start': 523.62, 'duration': 5.12}
+{'text': "let's go", 'start': 525.6, 'duration': 3.14}
+{'text': 'come on pick it up pick it up', 'start': 530.399, 'duration': 7.451}
+{'text': '[Laughter]', 'start': 533.22, 'duration': 4.63}
+{'text': "we're here this is it hey sorry about", 'start': 538.38, 'duration': 5.639}
+{'text': "this no fires today y'all shouldn't be", 'start': 541.32, 'duration': 4.5}
+{'text': 'out here by yourselves anyway you have', 'start': 544.019, 'duration': 3.421}
+{'text': 'some weirdo come up to you', 'start': 545.82, 'duration': 4.32}
+{'text': 'well you have to run away whatever', 'start': 547.44, 'duration': 5.78}
+{'text': 'we did it we did it', 'start': 550.14, 'duration': 3.08}
+{'text': "I'm glad you're here", 'start': 554.04, 'duration': 4.34}
+{'text': 'foreign', 'start': 556.2, 'duration': 2.18}
+{'text': "you know this isn't really a fire that", 'start': 559.26, 'duration': 2.46}
+{'text': 'would have gotten out of control though', 'start': 560.64, 'duration': 2.879}
+{'text': "there's a good perimeter and there's a", 'start': 561.72, 'duration': 3.48}
+{'text': 'lot of', 'start': 563.519, 'duration': 5.241}
+{'text': "what's that emergency picture", 'start': 565.2, 'duration': 3.56}
+{'text': 'broke out downtown six blocks from the', 'start': 569.839, 'duration': 4.5}
+{'text': 'diner', 'start': 572.04, 'duration': 2.299}
+{'text': "why'd you bring me out here", 'start': 576.899, 'duration': 3.12}
+{'text': '[Music]', 'start': 578.43, 'duration': 5.63}
+{'text': 'when you stay downtown you die', 'start': 580.019, 'duration': 4.041}
+{'text': 'we tried to stop the fire', 'start': 584.88, 'duration': 3.48}
+{'text': 'hundreds of times', 'start': 586.68, 'duration': 3.54}
+{'text': 'we stopped the electrical fire and then', 'start': 588.36, 'duration': 3.18}
+{'text': 'an oven fire breaks out in the kitchen', 'start': 590.22, 'duration': 3.0}
+{'text': 'we stop the kitchen fire then three', 'start': 591.54, 'duration': 3.18}
+{'text': 'teenagers forget to put a cigarette out', 'start': 593.22, 'duration': 3.42}
+{'text': 'next door', 'start': 594.72, 'duration': 4.619}
+{'text': 'if I always happens you always die I', 'start': 596.64, 'duration': 3.66}
+{'text': 'always live', 'start': 599.339, 'duration': 2.461}
+{'text': 'even when you manage to rescue a few', 'start': 600.3, 'duration': 3.779}
+{'text': 'people you never make it out so', 'start': 601.8, 'duration': 3.9}
+{'text': 'I started looking for another exit to', 'start': 604.079, 'duration': 4.561}
+{'text': 'the maze away from the fire I spent days', 'start': 605.7, 'duration': 4.8}
+{'text': 'searching for locations I calibrated', 'start': 608.64, 'duration': 3.3}
+{'text': 'what would be the shortest safe distance', 'start': 610.5, 'duration': 3.3}
+{'text': 'away and then it hit me', 'start': 611.94, 'duration': 3.839}
+{'text': 'here so we used to go camping with Dad', 'start': 613.8, 'duration': 4.14}
+{'text': "firemen don't run from fires something", 'start': 615.779, 'duration': 3.721}
+{'text': 'always happened that brought you back to', 'start': 617.94, 'duration': 3.12}
+{'text': 'the fire or killed you on your way out', 'start': 619.5, 'duration': 3.72}
+{'text': 'of town this time we I saved you this', 'start': 621.06, 'duration': 4.38}
+{'text': "time I don't need you to save me Shane", 'start': 623.22, 'duration': 4.08}
+{'text': 'why do you even care', 'start': 625.44, 'duration': 3.6}
+{'text': "you've talked to me like twice since dad", 'start': 627.3, 'duration': 3.539}
+{'text': 'died but look if I could create a Time', 'start': 629.04, 'duration': 3.419}
+{'text': "Loop that goes back to win I don't care", 'start': 630.839, 'duration': 5.0}
+{'text': 'about time Luke Shane', 'start': 632.459, 'duration': 3.38}
+{'text': "if you don't", 'start': 636.0, 'duration': 2.72}
+{'text': "if you don't care why did you come", 'start': 638.94, 'duration': 4.56}
+{'text': 'because I wanted to spend time with my', 'start': 642.0, 'duration': 3.62}
+{'text': 'brother', 'start': 643.5, 'duration': 2.12}
+{'text': 'communication', 'start': 647.16, 'duration': 3.66}
+{'text': "oh I can't do that give me the keys", 'start': 649.2, 'duration': 4.639}
+{'text': 'Shane people are dying', 'start': 650.82, 'duration': 3.019}
+{'text': 'no no no no', 'start': 654.12, 'duration': 2.48}
+{'text': '[Music]', 'start': 674.43, 'duration': 10.22}
+{'text': 'thank you', 'start': 686.24, 'duration': 3.0}
+{'text': 'foreign', 'start': 693.6, 'duration': 2.419}
+{'text': 'work at the fire station fire station', 'start': 702.26, 'duration': 3.4}
+{'text': "three downtown if you're a firefighter", 'start': 704.22, 'duration': 2.7}
+{'text': 'and you get your asses back out in town', 'start': 705.66, 'duration': 3.06}
+{'text': "man there's a fire out there not back", 'start': 706.92, 'duration': 2.84}
+{'text': 'here', 'start': 708.72, 'duration': 3.38}
+{'text': 'I found your dog', 'start': 709.76, 'duration': 5.199}
+{'text': 'you brought some music bleed the fire', 'start': 712.1, 'duration': 4.5}
+{'text': 'downtown to spread to a second building', 'start': 714.959, 'duration': 3.601}
+{'text': 'firefighters are just arriving at the', 'start': 716.6, 'duration': 4.35}
+{'text': 'seats no radio', 'start': 718.56, 'duration': 5.519}
+{'text': '[Music]', 'start': 720.95, 'duration': 3.129}
+{'text': "I'm coming", 'start': 728.779, 'duration': 4.36}
+{'text': '[Music]', 'start': 731.7, 'duration': 2.759}
+{'text': "I'm about to give me all your", 'start': 733.139, 'duration': 3.321}
+{'text': 'money', 'start': 734.459, 'duration': 5.16}
+{'text': '[Applause]', 'start': 736.46, 'duration': 3.159}
+{'text': "there's going to be a fire downtown we", 'start': 744.3, 'duration': 3.44}
+{'text': 'can stop it', 'start': 746.339, 'duration': 4.641}
+{'text': 'you bring every fire truck you can get', 'start': 747.74, 'duration': 6.039}
+{'text': "it's just us how far our trucks you're", 'start': 750.98, 'duration': 4.0}
+{'text': "going through the front I'm going in", 'start': 753.779, 'duration': 2.761}
+{'text': 'through the front', 'start': 754.98, 'duration': 3.72}
+{'text': "okay look I timed this out if we don't", 'start': 756.54, 'duration': 4.38}
+{'text': 'leave right now you die', 'start': 758.7, 'duration': 3.84}
+{'text': "don't go for the hose what are you not", 'start': 760.92, 'duration': 4.94}
+{'text': 'going to do go for the hose', 'start': 762.54, 'duration': 3.32}
+{'text': 'how is it already', 'start': 766.2, 'duration': 5.24}
+{'text': 'should be working', 'start': 768.36, 'duration': 3.08}
+{'text': '[Music]', 'start': 771.92, 'duration': 4.1}
+{'text': 'sorry', 'start': 778.8, 'duration': 2.479}
+{'text': 'are the girls', 'start': 790.7, 'duration': 5.68}
+{'text': "great yeah yeah that's fine I can pick", 'start': 793.44, 'duration': 5.72}
+{'text': 'up food on the way back', 'start': 796.38, 'duration': 2.78}
+{'text': 'Shane', 'start': 805.56, 'duration': 4.26}
+{'text': "what are you doing here can't check up", 'start': 807.2, 'duration': 4.72}
+{'text': "with my brother oh wow I'm not", 'start': 809.82, 'duration': 3.72}
+{'text': "complaining I just figured you'd be in", 'start': 811.92, 'duration': 2.76}
+{'text': 'space or', 'start': 813.54, 'duration': 3.239}
+{'text': 'building a hover car or something', 'start': 814.68, 'duration': 3.779}
+{'text': "golly it's been like four years three", 'start': 816.779, 'duration': 3.841}
+{'text': 'months 21 days', 'start': 818.459, 'duration': 5.041}
+{'text': "hey Matt the usual yes ma'am this right", 'start': 820.62, 'duration': 4.86}
+{'text': 'here is my brother Shane Shane this is', 'start': 823.5, 'duration': 3.3}
+{'text': 'Robin the best waitress at the downtown', 'start': 825.48, 'duration': 3.96}
+{'text': 'Diner can I get you anything I will take', 'start': 826.8, 'duration': 5.159}
+{'text': 'an apple juice extra ice Black Coffee', 'start': 829.44, 'duration': 4.92}
+{'text': 'Apple Juice plenty of ice', 'start': 831.959, 'duration': 4.201}
+{'text': 'pick an apple juice on', 'start': 834.36, 'duration': 3.24}
+{'text': "huh you know it's funny every time I", 'start': 836.16, 'duration': 3.359}
+{'text': "pack Katie's lunch she always asks for", 'start': 837.6, 'duration': 4.02}
+{'text': 'juice box', 'start': 839.519, 'duration': 3.541}
+{'text': 'I think she takes after her uncle a', 'start': 841.62, 'duration': 2.519}
+{'text': 'little bit', 'start': 843.06, 'duration': 3.06}
+{'text': 'we still eat Cocoa Puffs', 'start': 844.139, 'duration': 4.38}
+{'text': "let's get your arms uh better actually", 'start': 846.12, 'duration': 6.36}
+{'text': "she eats chocolate Lucky Charms I didn't", 'start': 848.519, 'duration': 6.421}
+{'text': 'even know those existed well they do and', 'start': 852.48, 'duration': 5.58}
+{'text': 'we have family sized Boxes by the Dozen', 'start': 854.94, 'duration': 5.899}
+{'text': "it's amazing", 'start': 858.06, 'duration': 2.779}
+{'text': "what's up", 'start': 860.94, 'duration': 2.66}
+{'text': 'this is', 'start': 864.48, 'duration': 2.719}
+{'text': 'nothing', 'start': 870.72, 'duration': 4.38}
+{'text': 'hey have you got time to stay for', 'start': 873.3, 'duration': 2.09}
+{'text': 'breakfast', 'start': 875.1, 'duration': 14.06}
+{'text': '[Music]', 'start': 875.39, 'duration': 13.77}
+{'text': 'foreign', 'start': 891.54, 'duration': 3.0}
+{'text': '[Music]', 'start': 900.48, 'duration': 3.269}
