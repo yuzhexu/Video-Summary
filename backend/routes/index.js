@@ -8,6 +8,8 @@ const { json } = require("express");
 const { Configuration, OpenAIApi } = require('openai');
 require('dotenv').config();
 
+
+
 const configuration = new Configuration({
   apiKey: process.env.OPENAI_API_KEY,
 });
@@ -31,21 +33,18 @@ const generateResponse = async (url) => {
       caption += result_[i].text;
       caption += '\n'
     }
-    console.log("caption: " + caption);
+    //console.log("caption: " + caption);
     var sub_caption;
-    if (caption.length > 2000)
-    {
-      sub_caption = caption.substring(0,1000);
-    }
-    console.log(sub_caption);
-    caption = "abcd";
+
+    sub_caption = caption.substring(0,100);
+
 
 
     const completion = await openai.createCompletion({
-      model: "text-davinci-003",
-      prompt: generatePrompt(sub_caption),
-      temperature: 0.6,
-      max_tokens: 3500,
+      model: "text-davinci-003", //text-davinci-003 gpt-3.5-turbo
+      prompt: generatePrompt(caption),
+      temperature: 0.2,
+      max_tokens: 1024,
     });
 
     return completion;
@@ -61,13 +60,21 @@ function generatePrompt(caption) {
   `
 }
 
-router.post('/', (req, res, next) => {
+router.post('/', async (req, res) => {
   const { url } = req.body;
   
-  (async () => {
+  try {
     const completion = await generateResponse(url);
-    res.status(200).json(completion.data.choices[0].text)
-  })()
+
+    if (completion && completion.data && completion.data.choices && completion.data.choices[0] && completion.data.choices[0].text) {
+      res.status(200).json(completion.data.choices[0].text);
+    } else {
+      res.status(500).json({ error: "API response is missing expected data." });
+    }
+  } catch (error) {
+    console.error("Error:", error.message);
+    res.status(500).json({ error: error.message });
+  }
 });
 
 
