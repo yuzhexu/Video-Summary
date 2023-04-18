@@ -5,30 +5,37 @@ import json
 import tiktoken
 
 
-def split_token(token, num_of_token):
-  tokenlist = []
-  counter = len(token)
-  tokenlist.append(token[:num_of_token])
-  tmp = token
-  while counter > num_of_token:
-    tmp = tmp[num_of_token:]
-    tokenlist.append(tmp[:num_of_token])
-    counter -= num_of_token
-  return tokenlist
+#split each
+def split_token(tokens, chunk_size):
+    tokenlist = [tokens[i:i + chunk_size] for i in range(0, len(tokens), chunk_size)]
+    return tokenlist
 
 def main(args):
     #data = download_captions(extract_video_id("https://www.youtube.com/watch?v=kpnJZZxqZHQ"))
     data = extract_captions(extract_video_id(args.url))
     
     encoding = tiktoken.encoding_for_model("text-davinci-003")  
+    
+    
+    #concat all text and remove newline characters
     text = ""
     for text_i in data:
         text = text + text_i["text"] + " "
+    text = text.replace("\n", "").replace("... ...", " ").replace("...", "")
+    
+    encoded_tokens = encoding.encode(text)
+    tokens_list = split_token(encoded_tokens, 1049)
+    
+    text_list = []
+    for tokens in tokens_list:
+        text_list.append(encoding.decode(tokens))
     
     
     
     
-    jsonStr = json.dumps(data)
+    
+    
+    jsonStr = json.dumps(text_list)
     print(jsonStr)
     
     
