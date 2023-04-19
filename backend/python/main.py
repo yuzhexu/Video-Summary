@@ -24,7 +24,7 @@ def main(args):
     text = text.replace("\n", "").replace("... ...", " ").replace("...", "")
     
     encoded_tokens = encoding.encode(text)
-    tokens_list = split_token(encoded_tokens, 1049)
+    tokens_list = split_token(encoded_tokens, 3500)
     
     text_list = []
     for tokens in tokens_list:

@@ -43,14 +43,16 @@ const generateResponse = async (url) => {
 
   // Create completion for each chunk of caption and combine them
   let summary_list = [];
+  let previous = "";
   for (let i = 0; i < caption_list.length; i++) {
     let completion = await openai.createCompletion({
       model: "text-davinci-003", // text-davinci-003 gpt-3.5-turbo
-      prompt: generatePrompt(caption_list[i]),
+      prompt: generatePrompt(previous, caption_list[i]),
       temperature: 0.2,
-      max_tokens: 3000,
+      max_tokens: 300,
     });
     summary_list.push(completion.data.choices[0].text);
+    previous = completion.data.choices[0].text;
     console.log(summary_list)
   }
   let full_summary = JSON.stringify(summary_list);
@@ -63,9 +65,26 @@ const generateResponse = async (url) => {
 };
 
 
-function generatePrompt(caption) {
-  return `You are a video summarizer. Summarize the following subtitle from the video. The caption maybe in chunks. You can use the previous chunks to help you summarize the current chunk. The video is about:
+function generatePrompt(previous_chunk,caption) {
+  if (previous_chunk === "")
+  {
+    return `You are a video summarizer. Summarize the following subtitle from the video. The caption maybe in chunks. You can use the previous summary of chunks to help you summarize the current chunk.
+
+    The current chunk is:
+    ${caption}
+    `
+  }
+
+
+  return `You are a video summarizer. Summarize the following subtitle from the video. The caption maybe in chunks. You can use the previous summary of chunks to help you summarize the current chunk.
+
+  The previous chunk is:
+  ${previous_chunk},
+
+  The current chunk is:
   ${caption}
+
+  Summarize the current chunk without repeating the previous chunk. Do not say "The previous chunk is" or "The current chunk is" in your summary.
   `
 }
 
