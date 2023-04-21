@@ -5,9 +5,11 @@ import json
 import tiktoken
 
 
-#split each
+#split tokens into chunks of 3500 and overlap each chunk with 100 tokens
 def split_token(tokens, chunk_size):
-    tokenlist = [tokens[i:i + chunk_size] for i in range(0, len(tokens), chunk_size)]
+    overlap = 100
+    tokenlist = [tokens[i:i + chunk_size] for i in range(0, len(tokens)-overlap, chunk_size-overlap)]
+    
     return tokenlist
 
 def main(args):
@@ -24,7 +26,7 @@ def main(args):
     text = text.replace("\n", "").replace("... ...", " ").replace("...", "")
     
     encoded_tokens = encoding.encode(text)
-    tokens_list = split_token(encoded_tokens, 3500)
+    tokens_list = split_token(encoded_tokens, 3300)
     
     text_list = []
     for tokens in tokens_list:

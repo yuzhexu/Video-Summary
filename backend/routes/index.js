@@ -8,7 +8,6 @@ const { json } = require("express");
 const { Configuration, OpenAIApi } = require('openai');
 require('dotenv').config();
 
-
 function sendErrorResponse(res, message, statusCode = 500) {
   console.error("Error:", message);
   res.status(statusCode).json({ error: message });
@@ -53,40 +52,69 @@ const generateResponse = async (url) => {
     });
     summary_list.push(completion.data.choices[0].text);
     previous = completion.data.choices[0].text;
-    console.log(summary_list)
+    console.log("chunk " + i + " completed")
+    console.log(completion.data.choices[0].text)
   }
-  let full_summary = JSON.stringify(summary_list);
+  let full_summary = summary_list.join(" ");
+  if (caption_list.length > 1) {
+    let completion = await openai.createCompletion({
+      model: "text-davinci-003", // text-davinci-003 gpt-3.5-turbo
+      prompt: generateSumUpPrompt(full_summary),
+      temperature: 0.2,
+      max_tokens: 500,
+    });
+    full_summary = completion.data.choices[0].text
+    console.log("Sum up completed");
+  }
+  console.log("Full Summary: \n" + full_summary);
   return full_summary;
 
 
   } catch (err) {
-    //console.error('Error:', err);
+    console.error('Error:', err);
   }
 };
 
 
-function generatePrompt(previous_chunk,caption) {
-  if (previous_chunk === "")
-  {
-    return `You are a video summarizer. Summarize the following subtitle from the video. The caption maybe in chunks. You can use the previous summary of chunks to help you summarize the current chunk.
-
-    The current chunk is:
+function generatePrompt(previous_chunk, caption) {
+  if (previous_chunk === "") {
+    return `You are a video summarizer. Your task is to summarize the following subtitle from the video. The caption may be incomplete.:
+    --------------------------------------
     ${caption}
-    `
+    --------------------------------------`;
   }
 
+  return `You are a video summarizer. Your task is to summarize the following subtitle from the video. The caption may appear in chunks. You can use the previous summary of chunks to help you summarize the current chunk.
 
-  return `You are a video summarizer. Summarize the following subtitle from the video. The caption maybe in chunks. You can use the previous summary of chunks to help you summarize the current chunk.
+  Previous chunk summary:
+  ${previous_chunk}
 
-  The previous chunk is:
-  ${previous_chunk},
-
-  The current chunk is:
+  Current chunk:
   ${caption}
 
-  Summarize the current chunk without repeating the previous chunk. Do not say "The previous chunk is" or "The current chunk is" in your summary.
+  Create a summary for the current chunk without repeating the previous chunk. Avoid using phrases like "The previous chunk is" or "The current chunk is" in your summary. Your summary should continue from the previous one without repeating information.`;
+}
+
+
+function generateSumUpPrompt(summary)
+{
+  return `Get rid of the repetition in the summary:
+
+  ${summary}
   `
 }
+
+
+router.get('/', async (req, res) => {
+  try {
+    res.status(200).json({summary: summary});
+  } catch (error) {
+    sendErrorResponse(res, error.message);
+  }
+});
+
+
+
 
 router.post('/', async (req, res) => {
   const { url } = req.body;
@@ -100,16 +128,11 @@ router.post('/', async (req, res) => {
     //console.log(completion)
     
     if (completion) {
-      res.status(200).json(completion);
+      res.status(200).json({summary: completion});
     } else {
       sendErrorResponse(res, "API response is missing expected data.");
     }
 
-    // if (completion && completion.data && completion.data.choices && completion.data.choices[0] && completion.data.choices[0].text) {
-    //   res.status(200).json(completion.data.choices[0].text);
-    // } else {
-    //   res.status(500).json({ error: "API response is missing expected data." });
-    // }
   } catch (error) {
     sendErrorResponse(res, error.message);
   }
