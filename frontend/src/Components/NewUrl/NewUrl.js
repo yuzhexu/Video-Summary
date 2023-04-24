@@ -21,7 +21,7 @@ const NewUrl = props => {
 
     return (
         <form className='new-url' onSubmit={addUrlHandler}>
-            <textarea cols={50} rows={5} className='input' type="text" value={enterText} onChange={textChangeHandler}></textarea>
+            <textarea cols={70} rows={1} className='input' type="text" value={enterText} onChange={textChangeHandler}></textarea>
             <button type='submit'>Add Url</button>
         </form>
     )
