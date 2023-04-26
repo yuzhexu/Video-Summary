@@ -20,10 +20,10 @@ const NewUrl = props => {
     }
 
     return (
-        <form className='new-url' onSubmit={addUrlHandler}>
-            <textarea cols={70} rows={1} className='input' type="text" value={enterText} onChange={textChangeHandler}></textarea>
-            <button type='submit'>Add Url</button>
-        </form>
+        <div class="input-group mb-3">
+            <input type="text" className="form-control" placeholder="Enter Youtube Video URL" value={enterText} onChange={textChangeHandler} aria-label="Videos URL" aria-describedby="button-addon2"></input>
+            <button class="btn btn-outline-secondary" type="button" id="button-addon2" onClick={addUrlHandler}>Summarize!</button>
+        </div>
     )
 }
 

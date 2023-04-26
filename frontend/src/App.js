@@ -19,7 +19,7 @@ function App() {
   
   const addNewUrlHandler = async newUrl => {
     try {
-      setDisplayedText('Loading...');
+      setDisplayedText('Thinking...');
       setError(null); // Reset error state
       const response = await fetch('http://localhost:5000/', {
         method: 'POST',
